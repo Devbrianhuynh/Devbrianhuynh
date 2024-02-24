@@ -1,5 +1,4 @@
 - Hello, I’m Brian Huynh
-- I’m interested in algorithmic trading, backend engineering, and software architecture
+- I’m interested in algorithmic trading, backend engineering, cloud computing, and software architecture
 - I'm currently learning Python, C++, and Microsoft Excel
 - I’m looking to collaborate on backend projects and anything related to trading and finance
-- Look at my profile to reach out to me
